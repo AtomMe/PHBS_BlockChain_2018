@@ -1,9 +1,3 @@
-LivesOne Platform
-
-|     Name      |     ID     |
-| :-----------: | :--------: |
-| Tang Jieqiang | 1701213092 |
-
 ## Introduction
 
 ### Symbiotic economy
@@ -120,11 +114,10 @@ The rapid development of the symbiotic system will introduce a variety of mainst
 
 ## References
 
+The Bitcoin Backbone Protocol: Analysis and Applications. Garay J, Kiayias A, Leonardos N. 
 
+Smartpool: Practical decentralized pooled mining. Luu L, Velner Y, Teutsch J, Saxena P.
 
+Hierarchical deterministic Bitcoin wallets that tolerate key leakage. Gutoski G, Stebila D. FC '15.
 
-
-
-
-
-
+共生链白皮书
