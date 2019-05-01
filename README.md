@@ -20,7 +20,7 @@ Block chain in recent years is one of the most revolutionary new technology. It 
 
 #### Framework of Symbiotic System
 
-
+![](/image/1.png)
 
 ## Background
 
@@ -30,7 +30,7 @@ Block chain in recent years is one of the most revolutionary new technology. It 
 
 From the PC to the mobile Internet, a group on dividend express Internet products has been the rapid rise. Today, traffic dividends disappear, the Golden Age came to an abrupt end. In order to survive, large enterprises spend huge sums of money on advertising, passive follow-up of competitors, and then trigger a money-burning war, users will only see advertising. The intensity of the swing, small businesses lack of funds, can only use a variety of vulgar marketing means to attract eyeballs, but also can get the user's whim with little effect.
 
-![1556441327021](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1556441327021.png)
+![](/image/2.png)
 
 The increasingly fierce competition environment, serious homogenization of products, in recent years, to get the user cost exponential rise. Soared from a few dollars to tens of dollars, or even hundreds of yuan, mutual. The networking industry is at the crossroads of development  once again .
 
@@ -38,7 +38,7 @@ The increasingly fierce competition environment, serious homogenization of produ
 
 The rise of Internet Co, products emerge in an endless stream and the homogenization of serious, user loyalty is disappearing, user retention rate reduced year by year.
 
-![1556441389891](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1556441389891.png)
+![](/image/3.png)
 
 At the product level, over reliance on the channel, push advertising, because users will push advertising or product moment, will also push for more advertising, in the brand level,  more and more young Internet users began to pursue personalized, even the advantages of industry giants in the brand also gradually fade away.
 So, the effect of the function of the product and brand, are losing their due value, in excessive homogenization of the product market, customer loyalty has disappeared.
@@ -47,7 +47,7 @@ So, the effect of the function of the product and brand, are losing their due va
 
 At present, many businesses compete for users all the way, the entire industry is filled with all kinds of vicious competition and inefficient marketing, not only high cost, but also destroying the market and the environment. Mutual plagiarism in the product, a slightly advantage will also be competing products quickly tied, completely unable to reshape customer loyalty.
 
-![1556441479962](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1556441479962.png)
+![](/image/4.png)
 
 The reason is that the existing business model is not suitable for a wide range of market development, product function. Free service alone has been unable to maintain relations between merchants and customers department. Sustainable development of the industry requires us to break away from the original mode of thinking, upgrade the existing business model in an all-round way, and thoroughly solve the problem that the cost of acquiring users is too high and users are too expensive.
 
@@ -72,15 +72,15 @@ We believe that the digital currency market will have to follow the development 
 
 ##### appreciation model 
 
-![1556443032564](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1556443032564.png)
+![](/image/5.png)
 
 ### Timeline
 
-![1556441823719](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1556441823719.png)
+![](/image/6.png)
 
 ### Target
 
-![1556441880894](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\1556441880894.png)
+![](/image/7.png)
 
 The early development of the Internet is in 1999, businesses to sell products, collect fees to the user, as the charge economy;
 
