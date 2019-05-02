@@ -10,7 +10,7 @@ LivesOne is a new block chain project created by the Symbiosis Foundation and it
 
 The symbiotic system of the ecological system building block chain is based on technology, the core is to generate an encrypted database for each node, the database consists of three parts: the user common data (OpenID), user behavior data (user generated data on the network) and an encryption encryption for the books, books records each terminal contribution value, reputation value and trading information.
 
-Block chain in recent years is one of the most revolutionary new technology. It is the essence of a distributed billing system to the center, its core value is to let the person or organization in the absence of authority under the supervision of the mutual cooperation of each other to establish trust. Generally speaking, block chains are a common way of accounting through network nodes. The implementation of distributed database information is highly accurate and safe, the data (block) are superimposed in time sequence (chain) to generate permanent, do not tamper with the record, to build trust-building network system.
+Block chain in recent years is one of the most revolutionary new technology. It is the nature of distributed billing system to the center, the core value of people or organizations that cooperate with one another in the absence of authority control, and establish trust. Generally speaking, block chains are a common way of accounting through network nodes. The implementation of distributed database information is highly accurate and safe, the data (block) are superimposed in time sequence (chain) to generate permanent, do not tamper with the record, to build trust-building network system.
 
 #### Framework of Symbiotic System
 
@@ -22,11 +22,11 @@ Block chain in recent years is one of the most revolutionary new technology. It 
 
 #### User cost increasing
 
-From the PC to the mobile Internet, a group on dividend express Internet products has been the rapid rise. Today, traffic dividends disappear, the Golden Age came to an abrupt end. In order to survive, large enterprises spend huge sums of money on advertising, passive follow-up of competitors, and then trigger a money-burning war, users will only see advertising. The intensity of the swing, small businesses lack of funds, can only use a variety of vulgar marketing means to attract eyeballs, but also can get the user's whim with little effect.
+From the PC to the mobile Internet, a group on dividend express Internet products has been the rapid rise. Today, traffic dividends disappear, the Golden Age came to an abrupt end. To survive, large companies spend huge amounts of money on advertising, competitors passive follow-up, and then burn off a war, the user will only see ads. The intensity of the swing, small businesses lack of funds, can only use a variety of vulgar marketing means to attract eyeballs, but also can get the user's whim with little effect.
 
 ![](/image/2.png)
 
-The increasingly fierce competition environment, serious homogenization of products, in recent years, to get the user cost exponential rise. Soared from a few dollars to tens of dollars, or even hundreds of yuan, mutual. The networking industry is at the crossroads of development  once again .
+The competitive environment is becoming increasingly fierce and product homogeneity is serious. In recent years, user costs have risen exponentially. Soared from a few dollars to hundreds of dollars, even hundreds of dollars, to each other. Network development of the industry once again at a crossroads.
 
 #### User loyalty continues to decline
 
@@ -43,7 +43,7 @@ At present, many businesses compete for users all the way, the entire industry i
 
 ![](/image/4.png)
 
-The reason is that the existing business model is not suitable for a wide range of market development, product function. Free service alone has been unable to maintain relations between merchants and customers department. Sustainable development of the industry requires us to break away from the original mode of thinking, upgrade the existing business model in an all-round way, and thoroughly solve the problem that the cost of acquiring users is too high and users are too expensive.
+Free service alone has been unable to maintain relations between merchants and customers department. Sustainable development of the industry requires us to break away from the original mode of thinking, upgrade the existing business model in an all-round way, and thoroughly solve the problem that the cost of acquiring users is too high and users are too expensive.
 
 ## Development Plan
 
@@ -58,7 +58,7 @@ Fast growth: Sitting on tens of millions of users, the system can rapidly expand
 ##### The logic of  appreciation 
 
 I. Scarcity:
-The symbiotic system introduced the mainstream Internet applications, such as maxthon browser, users are basically in the million or more. The distribution of tokens will be speedy quick progress, and with the increasing difficulty of mining, free access to tokens will be reduced, thus prompting users to trade through the secondary market.
+Symbiotic system into the mainstream Internet applications, such as maxthon browser, users basically more than one million. Allocating tokens will quickly rapid progress, with increasing difficulty of mining, free access token will be reduced, thereby prompting the user to trade through the secondary market.
 Ii. Circulability:
 Speed, with increasing difficulty, free access to the token channel will be reduced, which prompted the user through the two level market transactions. Common students will also visit a variety of mainstream currency exchanges at home and abroad, to further enhance liquidity.
 III. Appreciation from ecosystem development:
@@ -80,7 +80,7 @@ The early development of the Internet is in 1999, businesses to sell products, c
 
 In 2006, with the rapid growth of the Internet, enterprises rely on advertising for profit, and users use products free of charge, which is regarded as the free economy era.
 
-Today, in the face of increasingly fierce market competition, in order to solve the problem of product homogeneity, customer loyalty is low, the user cost of a series of problems, the market needs a business with users have the income model, in order to achieve the purpose of sustainable development, called the symbiotic economic era.
+Nowadays, in the face of increasingly fierce market competition, in order to solve product homogenization problems, low customer loyalty, and a series of problems in user costs, the market needs a business user to have a revenue model in order to achieve sustainable development. symbiotic economic times.
 
 The key point lies in the economic symbiosis in the use of the Internet user behavior in the process of quantization, let the user behavior produce economic value, allowing users to get revenue, then up to increase user loyalty, finally realizes the enterprise and users of common benefit, common development, common prosperity and sustainable development of the Ecological Symbiosis relationship.
 
@@ -114,10 +114,16 @@ The rapid development of the symbiotic system will introduce a variety of mainst
 
 ## References
 
-The Bitcoin Backbone Protocol: Analysis and Applications. Garay J, Kiayias A, Leonardos N. 
+[1] The Bitcoin Backbone Protocol: Analysis and Applications. Garay J, Kiayias A, Leonardos N. 
 
-Smartpool: Practical decentralized pooled mining. Luu L, Velner Y, Teutsch J, Saxena P.
+[2] Smartpool: Practical decentralized pooled mining. Luu L, Velner Y, Teutsch J, Saxena P.
 
-Hierarchical deterministic Bitcoin wallets that tolerate key leakage. Gutoski G, Stebila D. FC '15.
+[3] Hierarchical deterministic Bitcoin wallets that tolerate key leakage. Gutoski G, Stebila D. FC '15.
 
-共生链白皮书
+[4] 共生链白皮书
+
+[5] Zyskind, G. , Nathan, O. , & Alex. (2015). Decentralizing Privacy: Using Blockchain to Protect Personal Data. *2015 IEEE Security and Privacy Workshops (SPW)*. IEEE Computer Society.
+
+[6] Fu, D. , & Fang, L. . (2017). Blockchain-based trusted computing in social network. *IEEE International Conference on Computer & Communications*. IEEE.
+
+[7] Truong, N. B. , Um, T. W. , Zhou, B. , & Lee, G. M. . (2018). Strengthening the Blockchain-Based Internet of Value with Trust. *IEEE International Conference on Communications*. IEEE.
